@@ -1,0 +1,62 @@
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.Mainform.resources
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.Properties.Resources.resources
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.Mainform.af-ZA.resources
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.Mainform.en-GB.resources
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.csproj.GenerateResource.Cache
+M:\bioprogram\bioprogram\bin\Debug\bioprogram.exe.config
+M:\bioprogram\bioprogram\bin\Debug\bioprogram.exe
+M:\bioprogram\bioprogram\bin\Debug\bioprogram.pdb
+M:\bioprogram\bioprogram\bin\Debug\af-ZA\bioprogram.resources.dll
+M:\bioprogram\bioprogram\bin\Debug\en-GB\bioprogram.resources.dll
+M:\bioprogram\bioprogram\obj\Debug\af-ZA\bioprogram.resources.dll
+M:\bioprogram\bioprogram\obj\Debug\en-GB\bioprogram.resources.dll
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.exe
+M:\bioprogram\bioprogram\obj\Debug\bioprogram.pdb
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe.config
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.exe
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.pdb
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\bin\Debug\bioprogram.pdb
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\bin\Debug\af-ZA\bioprogram.resources.dll
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\bin\Debug\en-GB\bioprogram.resources.dll
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.csprojResolveAssemblyReference.cache
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.resources
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.Properties.Resources.resources
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.af-ZA.resources
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.en-GB.resources
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\bioprogram.csproj.GenerateResource.Cache
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\af-ZA\bioprogram.resources.dll
+C:\Users\J_dog\Desktop\unzipped projects\bioprogram131025\bioprogram\obj\Debug\en-GB\bioprogram.resources.dll
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe.config
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.exe
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.pdb
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\bin\Debug\bioprogram.pdb
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\bin\Debug\af-ZA\bioprogram.resources.dll
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\bin\Debug\en-GB\bioprogram.resources.dll
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.csprojResolveAssemblyReference.cache
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.resources
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.Properties.Resources.resources
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.af-ZA.resources
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.en-GB.resources
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\bioprogram.csproj.GenerateResource.Cache
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\af-ZA\bioprogram.resources.dll
+M:\assignment 4 finished 131025\bioprogram131025\bioprogram\obj\Debug\en-GB\bioprogram.resources.dll
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe.config
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.exe
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.pdb
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\bin\Debug\bioprogram.exe
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\bin\Debug\bioprogram.pdb
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\bin\Debug\af-ZA\bioprogram.resources.dll
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\bin\Debug\en-GB\bioprogram.resources.dll
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.resources
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.Properties.Resources.resources
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.af-ZA.resources
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.Mainform.en-GB.resources
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\bioprogram.csproj.GenerateResource.Cache
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\af-ZA\bioprogram.resources.dll
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\bioprogram131025\bioprogram\obj\Debug\en-GB\bioprogram.resources.dll
+C:\Users\J\Desktop\OOP1 Assignment 3\bioprogram\bin\Debug\bioprogram.exe.config
+C:\Users\J\Desktop\OOP1 Assignment 3\bioprogram\obj\Debug\bioprogram.exe
+C:\Users\J\Desktop\OOP1 Assignment 3\bioprogram\obj\Debug\bioprogram.pdb
